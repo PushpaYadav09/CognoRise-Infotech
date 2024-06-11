@@ -14,6 +14,9 @@ This is a simple Number Guessing Game implemented in Java using Swing and AWT fo
 
 ## Usage
 -Enter your guess in the text field.
+
 -Click the "Guess" button to submit your guess.
+
 -The game will provide feedback on whether your guess is too high, too low, or correct.
+
 -The game will keep track of the number of attempts you have made.
